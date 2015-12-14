@@ -1,1 +1,2 @@
-This is my test git file
+This is my updated
+test git file
